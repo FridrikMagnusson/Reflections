@@ -40,3 +40,7 @@ Quickly spotting typos. Save old code phrases
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
 
 There is a user defined problem, good gitter might be a godd programmer. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Matlab, Latex ect ?
