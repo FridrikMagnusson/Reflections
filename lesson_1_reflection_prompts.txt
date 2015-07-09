@@ -1,0 +1,42 @@
+How did viewing a FC between two versions of a file help you see the bug that
+was introduced?
+
+    The code was simplified, thus still hard to spot the typo.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Always come back to a working copy - though remeber to only change one thing at a time.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Know when the code works
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Dunno
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Dont know yet
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    yes , used it in other language
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Programming, learning basic backup teknique.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Quickly spotting typos. Save old code phrases
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+There is a user defined problem, good gitter might be a godd programmer. 
