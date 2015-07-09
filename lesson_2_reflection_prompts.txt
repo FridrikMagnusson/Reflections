@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+in order to start up a reposatory
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+To have input files in the directory or other files, that are not directly needed to be in the reposorory
